@@ -1,12 +1,12 @@
-#PYTHON TUTORIAL
-###Start
+# PYTHON TUTORIAL
+### Start
 - Variable-Store value
 - Data types-Numbers,string,boolean
 - Comments-> by hash #
 - Arthmetic operators-> * , + , - , / , % , **
 - **NOTE - In python 2.7 print " " works while in python 3+ print ("") works**
 **********************
-###Explicit String Conversion->
+### Explicit String Conversion->
 + print ("I have +str(2)+"apples")
 + str() converts a non-string to string
 ****************
@@ -28,7 +28,7 @@
 + print a.lower()
 + print str(a) #If a is int type
 *************************
-###Take Input
+### Take Input
 + name=input("Enter name->")
 + print (name)
 
@@ -37,12 +37,12 @@
 
 **NOTE-> input() gives always str type**
 ******************
-###Python date & Time
-+ ####date library
+### Python date & Time
++ #### date library
 1. from datetime import datetime //import library
 2. print datetime.now()
 + output-> 2017-08-18 11:02:44.5455
-+ ####If you don't want full datetime
++ #### If you don't want full datetime
 1. now = datetime.now
 - print now.year
 - print now.month
@@ -51,14 +51,14 @@
 - print now.minute
 - print now.second
 ***********************
-###IF-ELSE
+### IF-ELSE
 ```
 if 8<9:
    print "Eight less"
  else:
    print "Greater"
    ```
-   ####SYNTAX
+   #### SYNTAX
    ```
    if condition:
      statement
@@ -68,7 +68,7 @@ if 8<9:
     statement
   ```
   *************************
-###AND/OR/NOT
+### AND/OR/NOT
 + AND
 + ```  print 3>2 and 5==5 ```
 + OR
@@ -77,13 +77,13 @@ if 8<9:
 + NOT
 + ```print not True```
 *************************
-###isalpha()
+### isalpha()
 ```
 x=123
 print x.isalpha() #gives false
 ```
 **********************
-###String Print
+### String Print
 + s="Charlie"
 + print s[0] # prints "C"
 
@@ -92,7 +92,7 @@ print x.isalpha() #gives false
 prints "harl"
 **This is called Slicing**
 *****************
-##Functions
+## Functions
 **Syntax**
 ```
 def function_name(parameter):
@@ -100,24 +100,24 @@ def function_name(parameter):
 return _____
 ```
 *******************
-###Use Maths
+### Use Maths
 from maths import *
 By this you can use sqrt
 + print sqrt(25)
 ******************
-###Universal import
+### Universal import
 ```from module import *```
 ************
-+ ###max,min,abs
++ ### max,min,abs
    + max(a,b)
    + min(a,b)
    + abs(-a)
-+ ###type()
++ ### type()
    + print type(42)
    + print type("wqw")
    + print type([1,2,3])
 ******************
-#Sample program
+# Sample program
 ```
 def check_type(s):
    if(type(s)==int or type(s)==float):
@@ -126,7 +126,7 @@ def check_type(s):
       return "Nope"
   ```
   ******************
-##Python List & Dictionary
+## Python List & Dictionary
 + list_name=[item1,item2]
 + List does not have a fixed length you can add items to end of a list any time you like->
 ```
@@ -135,7 +135,7 @@ def check_type(s):
 > print len(list_name)
 > print list_name
 ```
-###List Slicing
+### List Slicing
 ```
 letter=['a','b','c','d','e']
 slice = letter[1:3]
@@ -146,14 +146,14 @@ Syntax
 ```
 list_name[start,end,stride]
 ```
-###String Slicing
+### String Slicing
 ```
 abc="shaurya"
 abc[:2]      #Grabs the first two items
 abc[3:]      #Grabs the fourth through last items
 abc[4:7]     #print 'ury'
 ```
-###Maintaing order
+### Maintaing order
 ```
 animals=["ant","dog","cat"]
 print animals.index("dog")
@@ -162,35 +162,35 @@ animals.insert(1,"bat")
 print animals            # ['ant','bat','dog','cat']
 ```
 ****************
-###For loop
+### For loop
 ```for variable in list_name:```
 
 ```print variable```
 *********************
-###Sort()
+### Sort()
 + animals=["cat","bat","apple"]
 + animals.sort()
 + print animals    #["apple","bat","cat"]
 ******************
-###Dictionary
+### Dictionary
 + Dictionary Access data value by key not by index
 + key-> can be string or number
 ```
 d={'key1':1,'key2':2,'key3':3}
 print d['key1']
 ```
-+ #####Dictionary are not Fixed
++ ##### Dictionary are not Fixed
     + We can add new key/value pairs to dictionaryafter it is created
     + dict_name[new_key]=value
-+ ####Delete item in Dictionary
++ #### Delete item in Dictionary
    + del dict_name[key_name]
-+ ####Delte in List
++ #### Delte in List
    + letter=['a','b','c','d']
    1. BY value->letter.remove('b')
    2. BY index->n.pop(2)
    3. BY Del->del(n[1])
 ****************************
-#Sample Program
+# Sample Program
 ```
 my_dict={
   "fish":['a','b'],
@@ -201,20 +201,20 @@ my_dict={
 print my_dict["fist"][0]
 ```
 ***************************
-##Iteration
-##For
+## Iteration
+## For
   ```
    a="hello"
    for x in range(0,len(a))
    print x
   ```
-   ###Range
+   ### Range
     + range function has 3 different versions
     1. range(stop)
     2. range(start,stop)
     3. range(start,stop,step)
 
-  ###Iterate over a list
+  ### Iterate over a list
   1. Method1
      ```
      for item in list_name:
@@ -225,7 +225,7 @@ print my_dict["fist"][0]
      for i in range(0,len(list_name)):
        print list_name[i]
 *****************************
-####Add two list
+#### Add two list
 ```
 a=[1,20,3]
 b=[14,1,9]
