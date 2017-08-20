@@ -232,3 +232,28 @@ b=[14,1,9]
 print a+b    #[1,20,3,14,1,9]
 ```
 ******************
+
+
+
+
+
+
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_1.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_2.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_3.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_4.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_5.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_6.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_7.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_8.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_9.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_10.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_11.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_12.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_13.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_14.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_15.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_16.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_17.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_18.jpg" style="width:1000px;height:1000px"/>
+<img src="https://raw.github.com/shauryauppal/PYTHON_GUIDE/master//New%20Doc%202017-08-20/New%20Doc%202017-08-20_19.jpg" style="width:1000px;height:1000px"/>
